@@ -1,0 +1,338 @@
+[
+  {
+    "broker": "Brokered by REAL ESTATE GALLERY, INC.",
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0ODAiIGhlaWdodD0iMjcwIiBmaWxsPSJub25lIiB4bWxuczp2PSJodHRwczovL3ZlY3RhLmlvL25hbm8iPjxzdHlsZT48IVtDREFUQVsuR3tzdHJva2Utd2lkdGg6NH0uSHtzdHJva2U6I2UxZTFlMX0uSXtzdHJva2UtbGluZWNhcDpyb3VuZH1dXT48L3N0eWxlPjxwYXRoIGZpbGw9IiNmMmYyZjIiIGQ9Ik0wIDBoNDgwdjI3MEgweiIvPjxnIGNsaXAtcGF0aD0idXJsKCNBKSI+PGcgZmlsbD0iI2Y4ZjhmOCIgY2xhc3M9IkcgSCI+PHBhdGggZD0ibTM0NC4xOTcgOTAuMzA1LTEzNS4yMy0zNi4yMzRjLTkuNjAyLTIuNTczLTE5LjQ3MiAzLjEyNS0yMi4wNDUgMTIuNzI4bC0yNC44NDcgOTIuNzI4Yy0yLjU3MyA5LjYwMyAzLjEyNiAxOS40NzMgMTIuNzI4IDIyLjA0NmwxMzUuMjMgMzYuMjM0YzkuNjAyIDIuNTczIDE5LjQ3Mi0zLjEyNSAyMi4wNDUtMTIuNzI3bDI0Ljg0Ny05Mi43MjljMi41NzMtOS42MDMtMy4xMjYtMTkuNDczLTEyLjcyOC0yMi4wNDZaIi8+PHBhdGggZD0iTTMwMC41IDY5LjkzOWgtMTQwYy05Ljk0MSAwLTE4IDguMDU5LTE4IDE4djk2YzAgOS45NDEgOC4wNTkgMTggMTggMThoMTQwYzkuOTQxIDAgMTgtOC4wNTkgMTgtMTh2LTk2YzAtOS45NDEtOC4wNTktMTgtMTgtMThaIi8+PC9nPjxnIGNsYXNzPSJHIj48cGF0aCBkPSJNMjc3LjE2NCA5OS45MzloLTUuMzI4YTIuMzM2IDIuMzM2IDAgMCAwLTIuMzM2IDIuMzM2djIxLjMyOGEyLjMzNiAyLjMzNiAwIDAgMCAyLjMzNiAyLjMzNmg1LjMyOGEyLjMzNiAyLjMzNiAwIDAgMCAyLjMzNi0yLjMzNnYtMjEuMzI4YTIuMzM2IDIuMzM2IDAgMCAwLTIuMzM2LTIuMzM2WiIgZmlsbD0iI2YzZjNmMyIgc3Ryb2tlPSIjZTllOWU5Ii8+PHBhdGggZD0iTTE2OS41IDE2OS45MzloMTI2IiBjbGFzcz0iSCBJIi8+PC9nPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTE5Ny41IDExNy45MzlhNy45NiA3Ljk2IDAgMCAxLTEuMzg1IDQuNSA5Ljk3NiA5Ljk3NiAwIDAgMSAzLjM4NSA3LjUgOS45NSA5Ljk1IDAgMCAxLTEuNDQ3IDUuMTgzIDExLjk2IDExLjk2IDAgMCAxIDMuNDQ3IDguNDE3YzAgNi42MjctNS4zNzMgMTItMTIgMTJzLTEyLTUuMzczLTEyLTEyYTExLjk2IDExLjk2IDAgMCAxIDMuNDQ3LTguNDE3IDkuOTUgOS45NSAwIDAgMS0xLjQ0Ny01LjE4MyA5Ljk3NiA5Ljk3NiAwIDAgMSAzLjM4NS03LjUgOCA4IDAgMSAxIDE0LjYxNS00LjVaIiBmaWxsPSIjZmZmIi8+PHBhdGggZD0iTTE5Ni4xMTUgMTIyLjQzOWwtMS42NTItMS4xMjYtLjk5NSAxLjQ1OCAxLjMyMyAxLjE2OCAxLjMyNC0xLjV6bTEuOTM4IDEyLjY4M2wtMS43MDktMS4wMzgtLjgwOCAxLjMzMSAxLjA5MiAxLjExIDEuNDI1LTEuNDAzem0tMTcuMTA2IDBsMS40MjUgMS40MDMgMS4wOTItMS4xMS0uODA4LTEuMzMxLTEuNzA5IDEuMDM4em0xLjkzOC0xMi42ODNsMS4zMjQgMS41IDEuMzIzLTEuMTY4LS45OTUtMS40NTgtMS42NTIgMS4xMjZ6bTE0Ljg4MyAxLjEyN2E5Ljk2NSA5Ljk2NSAwIDAgMCAxLjczMi01LjYyN2gtNGE1Ljk3IDUuOTcgMCAwIDEtMS4wMzcgMy4zNzRsMy4zMDUgMi4yNTN6bTMuNzMyIDYuMzczYzAtMy41ODQtMS41NzQtNi44MDMtNC4wNjEtOC45OTlsLTIuNjQ4IDIuOTk5YTcuOTc2IDcuOTc2IDAgMCAxIDIuNzA5IDZoNHptLTEuNzM3IDYuMjIyYTExLjk1MiAxMS45NTIgMCAwIDAgMS43MzctNi4yMjJoLTRhNy45NTUgNy45NTUgMCAwIDEtMS4xNTYgNC4xNDVsMy40MTkgMi4wNzd6bS0zLjEzNS4zNjRhOS45NjMgOS45NjMgMCAwIDEgMi44NzIgNy4wMTRoNGMwLTMuODI1LTEuNTM2LTcuMjk1LTQuMDIxLTkuODE5bC0yLjg1MSAyLjgwNXptMi44NzIgNy4wMTRhMTAgMTAgMCAwIDEtMTAgMTB2NGM3LjczMiAwIDE0LTYuMjY4IDE0LTE0aC00em0tMTAgMTBhMTAgMTAgMCAwIDEtMTAtMTBoLTRjMCA3LjczMiA2LjI2OCAxNCAxNCAxNHYtNHptLTEwLTEwYTkuOTYzIDkuOTYzIDAgMCAxIDIuODcyLTcuMDE0bC0yLjg1MS0yLjgwNWExMy45NTcgMTMuOTU3IDAgMCAwLTQuMDIxIDkuODE5aDR6bS0yLTEzLjZhMTEuOTUgMTEuOTUgMCAwIDAgMS43MzcgNi4yMjJsMy40MTktMi4wNzdhNy45NTUgNy45NTUgMCAwIDEtMS4xNTYtNC4xNDVoLTR6bTQuMDYxLTguOTk5YTExLjk3OCAxMS45NzggMCAwIDAtNC4wNjEgOC45OTloNGE3Ljk3NiA3Ljk3NiAwIDAgMSAyLjcwOS02bC0yLjY0OC0yLjk5OXptLTIuMDYxLTMuMDAxYzAgMi4wODMuNjM5IDQuMDIzIDEuNzMyIDUuNjI3bDMuMzA1LTIuMjUzYTUuOTcgNS45NyAwIDAgMS0xLjAzNy0zLjM3NGgtNHptMTAtMTBhMTAgMTAgMCAwIDAtMTAgMTBoNGE2IDYgMCAwIDEgNi02di00em0xMCAxMGExMCAxMCAwIDAgMC0xMC0xMHY0YTYgNiAwIDAgMSA2IDZoNHoiIGZpbGw9IiNlMWUxZTEiLz48cGF0aCBkPSJNMTg5LjUgMTQ1LjkzOXYyNCIgY2xhc3M9IkcgSCBJIi8+PHBhdGggZD0iTTIyMS4wNDYgMTY5LjkzOWg1NC45MDhhMy41NDcgMy41NDcgMCAwIDAgMy41NDYtMy41NDZ2LTQ3LjA5MWwtMzEtMTkuMzYzLTMxIDE5LjM2M3Y0Ny4wOTFhMy41NDcgMy41NDcgMCAwIDAgMy41NDYgMy41NDZaIiBmaWxsPSIjZjNmM2YzIi8+PHBhdGggZD0ibTIxOS41IDEyMi42NjYgNi00LjcyN3Y1MmgtNnYtNDcuMjczWiIgZmlsbD0iI2U5ZTllOSIvPjxnIGNsYXNzPSJIIEciPjxwYXRoIGQ9Ik0yMTkuNSAxMjMuOTM5djQ2aDYwdi00NiIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9IkkiLz48ZyBmaWxsPSIjZmZmIj48cGF0aCBkPSJNMjU5LjUgMTUzLjEzOWE3LjIgNy4yIDAgMCAwLTcuMi03LjJoLTUuNmE3LjIgNy4yIDAgMCAwLTcuMiA3LjJ2MTYuOGgyMHYtMTYuOHptLTEwLTE1LjJhNiA2IDAgMSAwIDAtMTIgNiA2IDAgMCAwIDAgMTJ6Ii8+PC9nPjxwYXRoIGQ9Ik0yMTkuNSAxMDUuOTM5YTYgNiAwIDEgMSAwLTEyIDYgNiAwIDAgMSAwIDEyWiIvPjxwYXRoIGQ9Ik0yNjcuNSA5OS45MzloMTQiIGNsYXNzPSJJIi8+PHBhdGggZD0ibTI0NS42NjQgMTAwLjc5LTMxLjM5NSAyMy4zMjdhNi44NiA2Ljg2IDAgMCAwLTIuNzY5IDUuNTA3djMuNTkyYzAgMS45NTIgMi4yMjQgMy4wNyAzLjc5MSAxLjkwNmwzNC4yMDktMjUuNDE4IDM0LjIwOSAyNS40MThjMS41NjcgMS4xNjQgMy43OTEuMDQ2IDMuNzkxLTEuOTA2di0zLjU5MmE2Ljg2IDYuODYgMCAwIDAtMi43NjktNS41MDdsLTMxLjM5NS0yMy4zMjdhNi40MyA2LjQzIDAgMCAwLTcuNjcyIDBaIiBmaWxsPSIjZmZmIi8+PC9nPjwvZz48ZGVmcz48Y2xpcFBhdGggaWQ9IkEiPjxwYXRoIGZpbGw9IiNmZmYiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDExOS41IDQ5KSIgZD0iTTAgMGgyNDF2MTcySDB6Ii8+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+    "price": "$125,000",
+    "feature": "5 bed 2 bath 2,480sqft 2,480 square feet 4.48acre lot 4.48 acre lot",
+    "location": "2545 Nebo Rd Patriot, OH 45658",
+    "status": "House for sale"
+  },
+  {
+    "broker": "Brokered by Howard Hanna - Jackson, OH",
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0ODAiIGhlaWdodD0iMjcwIiBmaWxsPSJub25lIiB4bWxuczp2PSJodHRwczovL3ZlY3RhLmlvL25hbm8iPjxzdHlsZT48IVtDREFUQVsuR3tzdHJva2Utd2lkdGg6NH0uSHtzdHJva2U6I2UxZTFlMX0uSXtzdHJva2UtbGluZWNhcDpyb3VuZH1dXT48L3N0eWxlPjxwYXRoIGZpbGw9IiNmMmYyZjIiIGQ9Ik0wIDBoNDgwdjI3MEgweiIvPjxnIGNsaXAtcGF0aD0idXJsKCNBKSI+PGcgZmlsbD0iI2Y4ZjhmOCIgY2xhc3M9IkcgSCI+PHBhdGggZD0ibTM0NC4xOTcgOTAuMzA1LTEzNS4yMy0zNi4yMzRjLTkuNjAyLTIuNTczLTE5LjQ3MiAzLjEyNS0yMi4wNDUgMTIuNzI4bC0yNC44NDcgOTIuNzI4Yy0yLjU3MyA5LjYwMyAzLjEyNiAxOS40NzMgMTIuNzI4IDIyLjA0NmwxMzUuMjMgMzYuMjM0YzkuNjAyIDIuNTczIDE5LjQ3Mi0zLjEyNSAyMi4wNDUtMTIuNzI3bDI0Ljg0Ny05Mi43MjljMi41NzMtOS42MDMtMy4xMjYtMTkuNDczLTEyLjcyOC0yMi4wNDZaIi8+PHBhdGggZD0iTTMwMC41IDY5LjkzOWgtMTQwYy05Ljk0MSAwLTE4IDguMDU5LTE4IDE4djk2YzAgOS45NDEgOC4wNTkgMTggMTggMThoMTQwYzkuOTQxIDAgMTgtOC4wNTkgMTgtMTh2LTk2YzAtOS45NDEtOC4wNTktMTgtMTgtMThaIi8+PC9nPjxnIGNsYXNzPSJHIj48cGF0aCBkPSJNMjc3LjE2NCA5OS45MzloLTUuMzI4YTIuMzM2IDIuMzM2IDAgMCAwLTIuMzM2IDIuMzM2djIxLjMyOGEyLjMzNiAyLjMzNiAwIDAgMCAyLjMzNiAyLjMzNmg1LjMyOGEyLjMzNiAyLjMzNiAwIDAgMCAyLjMzNi0yLjMzNnYtMjEuMzI4YTIuMzM2IDIuMzM2IDAgMCAwLTIuMzM2LTIuMzM2WiIgZmlsbD0iI2YzZjNmMyIgc3Ryb2tlPSIjZTllOWU5Ii8+PHBhdGggZD0iTTE2OS41IDE2OS45MzloMTI2IiBjbGFzcz0iSCBJIi8+PC9nPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTE5Ny41IDExNy45MzlhNy45NiA3Ljk2IDAgMCAxLTEuMzg1IDQuNSA5Ljk3NiA5Ljk3NiAwIDAgMSAzLjM4NSA3LjUgOS45NSA5Ljk1IDAgMCAxLTEuNDQ3IDUuMTgzIDExLjk2IDExLjk2IDAgMCAxIDMuNDQ3IDguNDE3YzAgNi42MjctNS4zNzMgMTItMTIgMTJzLTEyLTUuMzczLTEyLTEyYTExLjk2IDExLjk2IDAgMCAxIDMuNDQ3LTguNDE3IDkuOTUgOS45NSAwIDAgMS0xLjQ0Ny01LjE4MyA5Ljk3NiA5Ljk3NiAwIDAgMSAzLjM4NS03LjUgOCA4IDAgMSAxIDE0LjYxNS00LjVaIiBmaWxsPSIjZmZmIi8+PHBhdGggZD0iTTE5Ni4xMTUgMTIyLjQzOWwtMS42NTItMS4xMjYtLjk5NSAxLjQ1OCAxLjMyMyAxLjE2OCAxLjMyNC0xLjV6bTEuOTM4IDEyLjY4M2wtMS43MDktMS4wMzgtLjgwOCAxLjMzMSAxLjA5MiAxLjExIDEuNDI1LTEuNDAzem0tMTcuMTA2IDBsMS40MjUgMS40MDMgMS4wOTItMS4xMS0uODA4LTEuMzMxLTEuNzA5IDEuMDM4em0xLjkzOC0xMi42ODNsMS4zMjQgMS41IDEuMzIzLTEuMTY4LS45OTUtMS40NTgtMS42NTIgMS4xMjZ6bTE0Ljg4MyAxLjEyN2E5Ljk2NSA5Ljk2NSAwIDAgMCAxLjczMi01LjYyN2gtNGE1Ljk3IDUuOTcgMCAwIDEtMS4wMzcgMy4zNzRsMy4zMDUgMi4yNTN6bTMuNzMyIDYuMzczYzAtMy41ODQtMS41NzQtNi44MDMtNC4wNjEtOC45OTlsLTIuNjQ4IDIuOTk5YTcuOTc2IDcuOTc2IDAgMCAxIDIuNzA5IDZoNHptLTEuNzM3IDYuMjIyYTExLjk1MiAxMS45NTIgMCAwIDAgMS43MzctNi4yMjJoLTRhNy45NTUgNy45NTUgMCAwIDEtMS4xNTYgNC4xNDVsMy40MTkgMi4wNzd6bS0zLjEzNS4zNjRhOS45NjMgOS45NjMgMCAwIDEgMi44NzIgNy4wMTRoNGMwLTMuODI1LTEuNTM2LTcuMjk1LTQuMDIxLTkuODE5bC0yLjg1MSAyLjgwNXptMi44NzIgNy4wMTRhMTAgMTAgMCAwIDEtMTAgMTB2NGM3LjczMiAwIDE0LTYuMjY4IDE0LTE0aC00em0tMTAgMTBhMTAgMTAgMCAwIDEtMTAtMTBoLTRjMCA3LjczMiA2LjI2OCAxNCAxNCAxNHYtNHptLTEwLTEwYTkuOTYzIDkuOTYzIDAgMCAxIDIuODcyLTcuMDE0bC0yLjg1MS0yLjgwNWExMy45NTcgMTMuOTU3IDAgMCAwLTQuMDIxIDkuODE5aDR6bS0yLTEzLjZhMTEuOTUgMTEuOTUgMCAwIDAgMS43MzcgNi4yMjJsMy40MTktMi4wNzdhNy45NTUgNy45NTUgMCAwIDEtMS4xNTYtNC4xNDVoLTR6bTQuMDYxLTguOTk5YTExLjk3OCAxMS45NzggMCAwIDAtNC4wNjEgOC45OTloNGE3Ljk3NiA3Ljk3NiAwIDAgMSAyLjcwOS02bC0yLjY0OC0yLjk5OXptLTIuMDYxLTMuMDAxYzAgMi4wODMuNjM5IDQuMDIzIDEuNzMyIDUuNjI3bDMuMzA1LTIuMjUzYTUuOTcgNS45NyAwIDAgMS0xLjAzNy0zLjM3NGgtNHptMTAtMTBhMTAgMTAgMCAwIDAtMTAgMTBoNGE2IDYgMCAwIDEgNi02di00em0xMCAxMGExMCAxMCAwIDAgMC0xMC0xMHY0YTYgNiAwIDAgMSA2IDZoNHoiIGZpbGw9IiNlMWUxZTEiLz48cGF0aCBkPSJNMTg5LjUgMTQ1LjkzOXYyNCIgY2xhc3M9IkcgSCBJIi8+PHBhdGggZD0iTTIyMS4wNDYgMTY5LjkzOWg1NC45MDhhMy41NDcgMy41NDcgMCAwIDAgMy41NDYtMy41NDZ2LTQ3LjA5MWwtMzEtMTkuMzYzLTMxIDE5LjM2M3Y0Ny4wOTFhMy41NDcgMy41NDcgMCAwIDAgMy41NDYgMy41NDZaIiBmaWxsPSIjZjNmM2YzIi8+PHBhdGggZD0ibTIxOS41IDEyMi42NjYgNi00LjcyN3Y1MmgtNnYtNDcuMjczWiIgZmlsbD0iI2U5ZTllOSIvPjxnIGNsYXNzPSJIIEciPjxwYXRoIGQ9Ik0yMTkuNSAxMjMuOTM5djQ2aDYwdi00NiIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9IkkiLz48ZyBmaWxsPSIjZmZmIj48cGF0aCBkPSJNMjU5LjUgMTUzLjEzOWE3LjIgNy4yIDAgMCAwLTcuMi03LjJoLTUuNmE3LjIgNy4yIDAgMCAwLTcuMiA3LjJ2MTYuOGgyMHYtMTYuOHptLTEwLTE1LjJhNiA2IDAgMSAwIDAtMTIgNiA2IDAgMCAwIDAgMTJ6Ii8+PC9nPjxwYXRoIGQ9Ik0yMTkuNSAxMDUuOTM5YTYgNiAwIDEgMSAwLTEyIDYgNiAwIDAgMSAwIDEyWiIvPjxwYXRoIGQ9Ik0yNjcuNSA5OS45MzloMTQiIGNsYXNzPSJJIi8+PHBhdGggZD0ibTI0NS42NjQgMTAwLjc5LTMxLjM5NSAyMy4zMjdhNi44NiA2Ljg2IDAgMCAwLTIuNzY5IDUuNTA3djMuNTkyYzAgMS45NTIgMi4yMjQgMy4wNyAzLjc5MSAxLjkwNmwzNC4yMDktMjUuNDE4IDM0LjIwOSAyNS40MThjMS41NjcgMS4xNjQgMy43OTEuMDQ2IDMuNzkxLTEuOTA2di0zLjU5MmE2Ljg2IDYuODYgMCAwIDAtMi43NjktNS41MDdsLTMxLjM5NS0yMy4zMjdhNi40MyA2LjQzIDAgMCAwLTcuNjcyIDBaIiBmaWxsPSIjZmZmIi8+PC9nPjwvZz48ZGVmcz48Y2xpcFBhdGggaWQ9IkEiPjxwYXRoIGZpbGw9IiNmZmYiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDExOS41IDQ5KSIgZD0iTTAgMGgyNDF2MTcySDB6Ii8+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+    "price": "$214,900",
+    "feature": "3 bed 2 bath 1,953sqft 1,953 square feet 0.32acre lot 0.32 acre lot",
+    "location": "5 Taas Trl Malvern, OH 44644",
+    "status": "House for sale"
+  },
+  {
+    "broker": "Brokered by Weichert, Realtors -Marblehead",
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0ODAiIGhlaWdodD0iMjcwIiBmaWxsPSJub25lIiB4bWxuczp2PSJodHRwczovL3ZlY3RhLmlvL25hbm8iPjxzdHlsZT48IVtDREFUQVsuR3tzdHJva2Utd2lkdGg6NH0uSHtzdHJva2U6I2UxZTFlMX0uSXtzdHJva2UtbGluZWNhcDpyb3VuZH1dXT48L3N0eWxlPjxwYXRoIGZpbGw9IiNmMmYyZjIiIGQ9Ik0wIDBoNDgwdjI3MEgweiIvPjxnIGNsaXAtcGF0aD0idXJsKCNBKSI+PGcgZmlsbD0iI2Y4ZjhmOCIgY2xhc3M9IkcgSCI+PHBhdGggZD0ibTM0NC4xOTcgOTAuMzA1LTEzNS4yMy0zNi4yMzRjLTkuNjAyLTIuNTczLTE5LjQ3MiAzLjEyNS0yMi4wNDUgMTIuNzI4bC0yNC44NDcgOTIuNzI4Yy0yLjU3MyA5LjYwMyAzLjEyNiAxOS40NzMgMTIuNzI4IDIyLjA0NmwxMzUuMjMgMzYuMjM0YzkuNjAyIDIuNTczIDE5LjQ3Mi0zLjEyNSAyMi4wNDUtMTIuNzI3bDI0Ljg0Ny05Mi43MjljMi41NzMtOS42MDMtMy4xMjYtMTkuNDczLTEyLjcyOC0yMi4wNDZaIi8+PHBhdGggZD0iTTMwMC41IDY5LjkzOWgtMTQwYy05Ljk0MSAwLTE4IDguMDU5LTE4IDE4djk2YzAgOS45NDEgOC4wNTkgMTggMTggMThoMTQwYzkuOTQxIDAgMTgtOC4wNTkgMTgtMTh2LTk2YzAtOS45NDEtOC4wNTktMTgtMTgtMThaIi8+PC9nPjxnIGNsYXNzPSJHIj48cGF0aCBkPSJNMjc3LjE2NCA5OS45MzloLTUuMzI4YTIuMzM2IDIuMzM2IDAgMCAwLTIuMzM2IDIuMzM2djIxLjMyOGEyLjMzNiAyLjMzNiAwIDAgMCAyLjMzNiAyLjMzNmg1LjMyOGEyLjMzNiAyLjMzNiAwIDAgMCAyLjMzNi0yLjMzNnYtMjEuMzI4YTIuMzM2IDIuMzM2IDAgMCAwLTIuMzM2LTIuMzM2WiIgZmlsbD0iI2YzZjNmMyIgc3Ryb2tlPSIjZTllOWU5Ii8+PHBhdGggZD0iTTE2OS41IDE2OS45MzloMTI2IiBjbGFzcz0iSCBJIi8+PC9nPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTE5Ny41IDExNy45MzlhNy45NiA3Ljk2IDAgMCAxLTEuMzg1IDQuNSA5Ljk3NiA5Ljk3NiAwIDAgMSAzLjM4NSA3LjUgOS45NSA5Ljk1IDAgMCAxLTEuNDQ3IDUuMTgzIDExLjk2IDExLjk2IDAgMCAxIDMuNDQ3IDguNDE3YzAgNi42MjctNS4zNzMgMTItMTIgMTJzLTEyLTUuMzczLTEyLTEyYTExLjk2IDExLjk2IDAgMCAxIDMuNDQ3LTguNDE3IDkuOTUgOS45NSAwIDAgMS0xLjQ0Ny01LjE4MyA5Ljk3NiA5Ljk3NiAwIDAgMSAzLjM4NS03LjUgOCA4IDAgMSAxIDE0LjYxNS00LjVaIiBmaWxsPSIjZmZmIi8+PHBhdGggZD0iTTE5Ni4xMTUgMTIyLjQzOWwtMS42NTItMS4xMjYtLjk5NSAxLjQ1OCAxLjMyMyAxLjE2OCAxLjMyNC0xLjV6bTEuOTM4IDEyLjY4M2wtMS43MDktMS4wMzgtLjgwOCAxLjMzMSAxLjA5MiAxLjExIDEuNDI1LTEuNDAzem0tMTcuMTA2IDBsMS40MjUgMS40MDMgMS4wOTItMS4xMS0uODA4LTEuMzMxLTEuNzA5IDEuMDM4em0xLjkzOC0xMi42ODNsMS4zMjQgMS41IDEuMzIzLTEuMTY4LS45OTUtMS40NTgtMS42NTIgMS4xMjZ6bTE0Ljg4MyAxLjEyN2E5Ljk2NSA5Ljk2NSAwIDAgMCAxLjczMi01LjYyN2gtNGE1Ljk3IDUuOTcgMCAwIDEtMS4wMzcgMy4zNzRsMy4zMDUgMi4yNTN6bTMuNzMyIDYuMzczYzAtMy41ODQtMS41NzQtNi44MDMtNC4wNjEtOC45OTlsLTIuNjQ4IDIuOTk5YTcuOTc2IDcuOTc2IDAgMCAxIDIuNzA5IDZoNHptLTEuNzM3IDYuMjIyYTExLjk1MiAxMS45NTIgMCAwIDAgMS43MzctNi4yMjJoLTRhNy45NTUgNy45NTUgMCAwIDEtMS4xNTYgNC4xNDVsMy40MTkgMi4wNzd6bS0zLjEzNS4zNjRhOS45NjMgOS45NjMgMCAwIDEgMi44NzIgNy4wMTRoNGMwLTMuODI1LTEuNTM2LTcuMjk1LTQuMDIxLTkuODE5bC0yLjg1MSAyLjgwNXptMi44NzIgNy4wMTRhMTAgMTAgMCAwIDEtMTAgMTB2NGM3LjczMiAwIDE0LTYuMjY4IDE0LTE0aC00em0tMTAgMTBhMTAgMTAgMCAwIDEtMTAtMTBoLTRjMCA3LjczMiA2LjI2OCAxNCAxNCAxNHYtNHptLTEwLTEwYTkuOTYzIDkuOTYzIDAgMCAxIDIuODcyLTcuMDE0bC0yLjg1MS0yLjgwNWExMy45NTcgMTMuOTU3IDAgMCAwLTQuMDIxIDkuODE5aDR6bS0yLTEzLjZhMTEuOTUgMTEuOTUgMCAwIDAgMS43MzcgNi4yMjJsMy40MTktMi4wNzdhNy45NTUgNy45NTUgMCAwIDEtMS4xNTYtNC4xNDVoLTR6bTQuMDYxLTguOTk5YTExLjk3OCAxMS45NzggMCAwIDAtNC4wNjEgOC45OTloNGE3Ljk3NiA3Ljk3NiAwIDAgMSAyLjcwOS02bC0yLjY0OC0yLjk5OXptLTIuMDYxLTMuMDAxYzAgMi4wODMuNjM5IDQuMDIzIDEuNzMyIDUuNjI3bDMuMzA1LTIuMjUzYTUuOTcgNS45NyAwIDAgMS0xLjAzNy0zLjM3NGgtNHptMTAtMTBhMTAgMTAgMCAwIDAtMTAgMTBoNGE2IDYgMCAwIDEgNi02di00em0xMCAxMGExMCAxMCAwIDAgMC0xMC0xMHY0YTYgNiAwIDAgMSA2IDZoNHoiIGZpbGw9IiNlMWUxZTEiLz48cGF0aCBkPSJNMTg5LjUgMTQ1LjkzOXYyNCIgY2xhc3M9IkcgSCBJIi8+PHBhdGggZD0iTTIyMS4wNDYgMTY5LjkzOWg1NC45MDhhMy41NDcgMy41NDcgMCAwIDAgMy41NDYtMy41NDZ2LTQ3LjA5MWwtMzEtMTkuMzYzLTMxIDE5LjM2M3Y0Ny4wOTFhMy41NDcgMy41NDcgMCAwIDAgMy41NDYgMy41NDZaIiBmaWxsPSIjZjNmM2YzIi8+PHBhdGggZD0ibTIxOS41IDEyMi42NjYgNi00LjcyN3Y1MmgtNnYtNDcuMjczWiIgZmlsbD0iI2U5ZTllOSIvPjxnIGNsYXNzPSJIIEciPjxwYXRoIGQ9Ik0yMTkuNSAxMjMuOTM5djQ2aDYwdi00NiIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9IkkiLz48ZyBmaWxsPSIjZmZmIj48cGF0aCBkPSJNMjU5LjUgMTUzLjEzOWE3LjIgNy4yIDAgMCAwLTcuMi03LjJoLTUuNmE3LjIgNy4yIDAgMCAwLTcuMiA3LjJ2MTYuOGgyMHYtMTYuOHptLTEwLTE1LjJhNiA2IDAgMSAwIDAtMTIgNiA2IDAgMCAwIDAgMTJ6Ii8+PC9nPjxwYXRoIGQ9Ik0yMTkuNSAxMDUuOTM5YTYgNiAwIDEgMSAwLTEyIDYgNiAwIDAgMSAwIDEyWiIvPjxwYXRoIGQ9Ik0yNjcuNSA5OS45MzloMTQiIGNsYXNzPSJJIi8+PHBhdGggZD0ibTI0NS42NjQgMTAwLjc5LTMxLjM5NSAyMy4zMjdhNi44NiA2Ljg2IDAgMCAwLTIuNzY5IDUuNTA3djMuNTkyYzAgMS45NTIgMi4yMjQgMy4wNyAzLjc5MSAxLjkwNmwzNC4yMDktMjUuNDE4IDM0LjIwOSAyNS40MThjMS41NjcgMS4xNjQgMy43OTEuMDQ2IDMuNzkxLTEuOTA2di0zLjU5MmE2Ljg2IDYuODYgMCAwIDAtMi43NjktNS41MDdsLTMxLjM5NS0yMy4zMjdhNi40MyA2LjQzIDAgMCAwLTcuNjcyIDBaIiBmaWxsPSIjZmZmIi8+PC9nPjwvZz48ZGVmcz48Y2xpcFBhdGggaWQ9IkEiPjxwYXRoIGZpbGw9IiNmZmYiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDExOS41IDQ5KSIgZD0iTTAgMGgyNDF2MTcySDB6Ii8+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+",
+    "price": "$479,000",
+    "feature": "2 bed 2 bath 1,491sqft 1,491 square feet 8,281sqft lot 8,281 square foot lot",
+    "location": "1867 N Fernwood Ln Marblehead, OH 43440",
+    "status": "House for sale"
+  },
+  {
+    "broker": "Brokered by Schrader Realty",
+    "image": "N/A",
+    "price": "$79,250",
+    "feature": "5 bed 1 bath 3,548sqft 3,548 square feet 8,712sqft lot 8,712 square foot lot",
+    "location": "233 N Franklin St Delphos, OH 45833",
+    "status": "Pending"
+  },
+  {
+    "broker": "Brokered by Sibcy Cline - Western Hills",
+    "image": "N/A",
+    "price": "$7,900,000",
+    "feature": "8 bed 9.5+ bath 19,496sqft 19,496 square feet 17acre lot 17 acre lot",
+    "location": "8600 Camargo Rd Indian Hill, OH 45243",
+    "status": "House for sale"
+  },
+  {
+    "broker": "Brokered by Cowan, Realtors",
+    "image": "N/A",
+    "price": "$255,000",
+    "feature": "3 bed 2.5 bath 1,916sqft 1,916 square feet 0.3acre lot 0.3 acre lot",
+    "location": "1722 Benham Dr Lima, OH 45805",
+    "status": "House for sale"
+  },
+  {
+    "broker": "Brokered by Berkshire Hathaway HomeServices Stouffer Realty",
+    "image": "N/A",
+    "price": "$349,900",
+    "feature": "3 bed 2.5 bath 0.46acre lot 0.46 acre lot",
+    "location": "789 Lindenwood Ln Medina, OH 44256",
+    "status": "House for sale"
+  },
+  {
+    "broker": "Brokered by Howard Hanna - Bay Village",
+    "image": "N/A",
+    "price": "$1,300,000",
+    "feature": "6 bed 4.5 bath 0.52acre lot 0.52 acre lot",
+    "location": "31223 Nantucket Row Bay Village, OH 44140",
+    "status": "Pending"
+  },
+  {
+    "broker": "Brokered by Berkshire Hathaway HomeServices Stouffer Realty",
+    "image": "N/A",
+    "price": "$229,900",
+    "feature": "4 bed 1.5 bath 1,844sqft 1,844 square feet 0.28acre lot 0.28 acre lot",
+    "location": "317 University St Berea, OH 44017",
+    "status": "House for sale"
+  },
+  {
+    "broker": "Brokered by Coldwell Banker Realty",
+    "image": "N/A",
+    "price": "$225,000",
+    "feature": "3 bed 1 bath 1,449sqft 1,449 square feet 0.88acre lot 0.88 acre lot",
+    "location": "1016 Obannonville Rd Loveland, OH 45140",
+    "status": "House for sale"
+  },
+  {
+    "broker": "Brokered by Keller Williams Chervenic Rlty",
+    "image": "N/A",
+    "price": "$269,900",
+    "feature": "4 bed 2 bath 2,219sqft 2,219 square feet 0.53acre lot 0.53 acre lot",
+    "location": "3561 Williamson Rd Stow, OH 44224",
+    "status": "House for sale"
+  },
+  {
+    "broker": "Brokered by Re/Max Stars",
+    "image": "N/A",
+    "price": "$550,000",
+    "feature": "4 bed 2 bath 2,470sqft 2,470 square feet 4.25acre lot 4.25 acre lot",
+    "location": "21813 Hopewell Rd Gambier, OH 43022",
+    "status": "House for sale"
+  },
+  {
+    "broker": "Brokered by Peddicord Rice LePage Real Estate & Auct",
+    "image": "N/A",
+    "price": "$199,900",
+    "feature": "3 bed 2 bath 1,616sqft 1,616 square feet 0.38acre lot 0.38 acre lot",
+    "location": "26045 Township Road 1159 Warsaw, OH 43844",
+    "status": "House for sale"
+  },
+  {
+    "broker": "Brokered by Bella Realty Group",
+    "image": "N/A",
+    "price": "$439,900",
+    "feature": "4 bed 1.5+ bath 2,516sqft 2,516 square feet 5.08acre lot 5.08 acre lot",
+    "location": "2324 US Route 68 S Caesarcreek Township, OH 45385",
+    "status": "House for sale"
+  },
+  {
+    "broker": "Brokered by Home Experts Realty",
+    "image": "N/A",
+    "price": "$110,000",
+    "feature": "3 bed 2 bath 8,263sqft lot 8,263 square foot lot",
+    "location": "219 Ashwood Ave Dayton, OH 45405",
+    "status": "Pending"
+  },
+  {
+    "broker": "Brokered by The Holden Agency",
+    "image": "N/A",
+    "price": "$318,000",
+    "feature": "4 bed 3 bath 2,750sqft 2,750 square feet 0.24acre lot 0.24 acre lot",
+    "location": "107 Broad St Saint Clairsville, OH 43950",
+    "status": "House for sale"
+  },
+  {
+    "broker": "Brokered by Howard Hanna - Bay Village",
+    "image": "N/A",
+    "price": "$949,000",
+    "feature": "4 bed 2.5 bath 4,592sqft 4,592 square feet 0.35acre lot 0.35 acre lot",
+    "location": "31202 Manchester Ln Bay Village, OH 44140",
+    "status": "House for sale"
+  },
+  {
+    "broker": "Brokered by Coldwell Banker Realty",
+    "image": "N/A",
+    "price": "$350,000",
+    "feature": "4 bed 2.5 bath 2,557sqft 2,557 square feet 0.7acre lot 0.7 acre lot",
+    "location": "533 Sycamore Dr Circleville, OH 43113",
+    "status": "House for sale"
+  },
+  {
+    "broker": "Brokered by Berkshire Hathaway HomeServices Stouffer Realty - Salem",
+    "image": "N/A",
+    "price": "$318,000",
+    "feature": "4 bed 2 bath 1,928sqft 1,928 square feet 1.2acre lot 1.2 acre lot",
+    "location": "1950 Woodland Dr Columbiana, OH 44408",
+    "status": "House for sale"
+  },
+  {
+    "broker": "Brokered by The Agency Cleveland Northcoast",
+    "image": "N/A",
+    "price": "$1,675,000",
+    "feature": "6 bed 5 bath 4,346sqft 4,346 square feet 6.12acre lot 6.12 acre lot",
+    "location": "16970 Auburn Rd Chagrin Falls, OH 44023",
+    "status": "House for sale"
+  },
+  {
+    "broker": "Brokered by Key Realty",
+    "image": "N/A",
+    "price": "$198,000",
+    "feature": "3 bed 2 bath 1,714sqft 1,714 square feet 5,401sqft lot 5,401 square foot lot",
+    "location": "5141 Inland Dr Sylvania, OH 43560",
+    "status": "Coming Soon"
+  },
+  {
+    "broker": "Brokered by Generations Realty",
+    "image": "N/A",
+    "price": "$249,900",
+    "feature": "4 bed 2.5 bath 2,208sqft 2,208 square feet",
+    "location": "14 N Tecumseh Trl Tiffin, OH 44883",
+    "status": "Contingent"
+  },
+  {
+    "broker": "Brokered by Cutler Real Estate Stow/Falls",
+    "image": "N/A",
+    "price": "$350,000",
+    "feature": "3 bed 3.5 bath 2,521sqft 2,521 square feet 5,959sqft lot 5,959 square foot lot",
+    "location": "2289 Becket Cir Stow, OH 44224",
+    "status": "House for sale"
+  },
+  {
+    "broker": "Brokered by Serenity Realty",
+    "image": "N/A",
+    "price": "$425,000",
+    "feature": "5 bed 3 bath 3,280sqft 3,280 square feet 2acre lot 2 acre lot",
+    "location": "9980 Chardon Rd Chardon, OH 44024",
+    "status": "House for sale"
+  },
+  {
+    "broker": "Brokered by High Point Real Estate Group",
+    "image": "N/A",
+    "price": "$229,900",
+    "feature": "4 bed 2 bath 1,945sqft 1,945 square feet 1.15acre lot 1.15 acre lot",
+    "location": "3689 Reichman Dr NW Dover, OH 44622",
+    "status": "House for sale"
+  },
+  {
+    "broker": "Brokered by Russell Real Estate Services",
+    "image": "N/A",
+    "price": "$70,000",
+    "feature": "5 bed 2 bath 0.26acre lot 0.26 acre lot",
+    "location": "4595 E 104th St Garfield Heights, OH 44125",
+    "status": "Pending"
+  },
+  {
+    "broker": "Brokered by Berkshire Hathaway HomeServices Professional Realty",
+    "image": "N/A",
+    "price": "$469,900",
+    "feature": "4 bed 2.5 bath 2,387sqft 2,387 square feet 0.61acre lot 0.61 acre lot",
+    "location": "614 Tracht Meadows Dr Huron, OH 44839",
+    "status": "House for sale"
+  },
+  {
+    "broker": "Brokered by Zimmerman Realty, Ltd.",
+    "image": "N/A",
+    "price": "$350,000",
+    "feature": "3 bed 2 bath 1,188sqft 1,188 square feet 10acre lot 10 acre lot",
+    "location": "1027 N Township Road 31 Bellefontaine, OH 43311",
+    "status": "Farm for sale"
+  },
+  {
+    "broker": "Brokered by Rise Realty And Management Co.",
+    "image": "N/A",
+    "price": "$195,000",
+    "feature": "4 bed 2 bath 1,568sqft 1,568 square feet 1.5acre lot 1.5 acre lot",
+    "location": "3125 Geneva School Rd SE Bremen, OH 43107",
+    "status": "Coming Soon"
+  },
+  {
+    "broker": "Brokered by Rosen & Co., Inc.",
+    "image": "N/A",
+    "price": "$94,000",
+    "feature": "3 bed 2 bath 7,405sqft lot 7,405 square foot lot",
+    "location": "281 Potters Cir Girard, OH 44420",
+    "status": "House for sale"
+  },
+  {
+    "broker": "Brokered by e-Merge Real Estate",
+    "image": "N/A",
+    "price": "$675,000",
+    "feature": "3 bed 3 bath 2,500sqft 2,500 square feet 1.5acre lot 1.5 acre lot",
+    "location": "4800 Pleasantville Rd NW Carroll, OH 43112",
+    "status": "House for sale"
+  },
+  {
+    "broker": "Brokered by Red 1 Realty",
+    "image": "N/A",
+    "price": "$109,900",
+    "feature": "17.73acre lot 17.73 acre lot",
+    "location": "State Route 139 Oak Hill, OH 45656",
+    "status": "Land for sale"
+  },
+  {
+    "broker": "Brokered by Howard Hanna - Bay Village",
+    "image": "N/A",
+    "price": "$1,200,000",
+    "feature": "6 bed 5.5 bath 5,804sqft 5,804 square feet 0.3acre lot 0.3 acre lot",
+    "location": "27030 Bruce Rd Bay Village, OH 44140",
+    "status": "Pending"
+  },
+  {
+    "broker": "Brokered by Kaufman Realty",
+    "image": "N/A",
+    "price": "$199,000",
+    "feature": "2 bed 2 bath 1,334sqft 1,334 square feet",
+    "location": "200 Knollton Dr Millersburg, OH 44654",
+    "status": "Condo for sale"
+  },
+  {
+    "broker": "Brokered by Wilson Realtors",
+    "image": "N/A",
+    "price": "$389,000",
+    "feature": "3 bed 2 bath 1,250sqft 1,250 square feet 5acre lot 5 acre lot",
+    "location": "659 Thomas Brown Rd Winchester, OH 45697",
+    "status": "House for sale"
+  },
+  {
+    "broker": "Brokered by Real Brokerage Technologies",
+    "image": "N/A",
+    "price": "$250,000",
+    "feature": "4 bed 1.5 bath 3.13acre lot 3.13 acre lot",
+    "location": "4871 Layhigh Rd Hamilton, OH 45013",
+    "status": "House for sale"
+  },
+  {
+    "broker": "Brokered by McDowell Real Estate",
+    "image": "N/A",
+    "price": "$318,000",
+    "feature": "3 bed 2.5 bath 0.53acre lot 0.53 acre lot",
+    "location": "6937 Reynolds Rd Mentor, OH 44060",
+    "status": "House for sale"
+  },
+  {
+    "broker": "Brokered by Flag City Realtors",
+    "image": "N/A",
+    "price": "$234,999",
+    "feature": "2 bed 2 bath 1,456sqft 1,456 square feet 0.48acre lot 0.48 acre lot",
+    "location": "4360 W Township Road 98 Tiffin, OH 44883",
+    "status": "House for sale"
+  },
+  {
+    "broker": "Brokered by Key Realty",
+    "image": "N/A",
+    "price": "$129,000",
+    "feature": "2 bed 2 bath 1,048sqft 1,048 square feet 7,200sqft lot 7,200 square foot lot",
+    "location": "4463 285th St Toledo, OH 43611",
+    "status": "Contingent"
+  },
+  {
+    "broker": "Brokered by Howard Hanna - Medina",
+    "image": "N/A",
+    "price": "$310,000",
+    "feature": "3 bed 1.5 bath 1,545sqft 1,545 square feet 7,566sqft lot 7,566 square foot lot",
+    "location": "531 N Court St Medina, OH 44256",
+    "status": "House for sale"
+  },
+  {
+    "broker": "Brokered by Heart of It All",
+    "image": "N/A",
+    "price": "$319,900",
+    "feature": "3 bed 2 bath 2,030sqft 2,030 square feet 0.75acre lot 0.75 acre lot",
+    "location": "1080 Coonpath Rd NW Lancaster, OH 43130",
+    "status": "Coming Soon"
+  },
+  {
+    "broker": "Brokered by Beckett Realty Group",
+    "image": "N/A",
+    "price": "$399,900",
+    "feature": "5 bed 4.5 bath 4,690sqft 4,690 square feet 3.27acre lot 3.27 acre lot",
+    "location": "7319 Old Us 35 SE Washington Court House, OH 43160",
+    "status": "House for sale"
+  }
+]
